@@ -14,9 +14,4 @@ Mathematics
   - University of Toronto
   - Sept 2017 – June 2023
 
-### Contact
-
-[Github](https://github.com/sionara)
-[Linkedin](https://www.linkedin.com/in/sion-lee-lnkdin/)
-
 
